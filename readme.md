@@ -1,4 +1,4 @@
 # MusicSynth
-## Makes ---random sounds!--- Music I Mean!
+## Makes ~~random sounds!~~ Music I Mean!
 -----------------
 -----------------
